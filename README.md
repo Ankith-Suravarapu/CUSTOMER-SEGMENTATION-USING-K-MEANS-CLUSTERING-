@@ -7,6 +7,6 @@ KONIJETI SRI VYSHNAVI_________________              AM.EN.U4AIE20042
 
 MADDALA H S M KRISHNA KARTHIK____   AM.EN.U4AIE20046
 
-METHUKU SAMHITHA_________________                 AM.EN.U4AIE20049
+METHUKU SAMHITHA_____________________                 AM.EN.U4AIE20049
 
-SURAVARAPU ANKITH_________________          AM.EN.U4AIE20070
+SURAVARAPU ANKITH_____________________          AM.EN.U4AIE20070
