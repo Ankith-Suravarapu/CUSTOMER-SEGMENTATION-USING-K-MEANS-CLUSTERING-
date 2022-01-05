@@ -3,7 +3,7 @@ This project is a part of Mall Customer Segmentation Data competition held on Ka
 
 And This Project done by
 
-KONIJETI SRI VYSHNAVI___________________              AM.EN.U4AIE20042
+KONIJETI SRI VYSHNAVI___________________             AM.EN.U4AIE20042
 
 MADDALA H S M KRISHNA KARTHIK______   AM.EN.U4AIE20046
 
