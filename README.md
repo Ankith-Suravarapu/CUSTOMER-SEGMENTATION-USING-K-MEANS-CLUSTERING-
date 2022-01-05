@@ -5,8 +5,8 @@ And This Project done by
 
 KONIJETI SRI VYSHNAVI______________              AM.EN.U4AIE20042
 
-MADDALA H S M KRISHNA KARTHIK_   ___   AM.EN.U4AIE20046
+MADDALA H S M KRISHNA KARTHIK____   AM.EN.U4AIE20046
 
-METHUKU SAMHITHA___________  ____                 AM.EN.U4AIE20049
+METHUKU SAMHITHA______________                 AM.EN.U4AIE20049
 
-SURAVARAPU ANKITH_   __________    ___          AM.EN.U4AIE20070
+SURAVARAPU ANKITH______________          AM.EN.U4AIE20070
