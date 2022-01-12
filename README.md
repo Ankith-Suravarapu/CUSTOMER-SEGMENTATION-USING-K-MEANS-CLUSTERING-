@@ -15,6 +15,6 @@ And This Project done by
 
 [MADDALA H S M KRISHNA KARTHIK](https://github.com/karthik1124)______   AM.EN.U4AIE20046
 
-METHUKU SAMHITHA[]_____________________                 AM.EN.U4AIE20049
+[METHUKU SAMHITHA](https://github.com/METHUKUSAMHITHA)_____________________                 AM.EN.U4AIE20049
 
 [SURAVARAPU ANKITH](https://github.com/Ankith-Suravarapu)_____________________          AM.EN.U4AIE20070
