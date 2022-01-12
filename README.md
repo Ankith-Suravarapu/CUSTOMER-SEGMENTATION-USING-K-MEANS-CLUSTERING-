@@ -9,7 +9,7 @@ Perform an exploratory analysis on the dataset.
 Check that the assumptions K-means makes are fulfilled.
 Apply K-means clustering algorithm in order to segment customers.
 
-And This Project done by
+And This Project done by:
 
 [KONIJETI SRI VYSHNAVI](https://github.com/srivyshnavikonijeti)___________________             AM.EN.U4AIE20042
 
