@@ -11,7 +11,7 @@ Apply K-means clustering algorithm in order to segment customers.
 
 And This Project done by
 
-[[https://github.com/srivyshnavikonijeti]](url)(Sri)___________________             AM.EN.U4AIE20042
+[Sri](https://github.com/srivyshnavikonijeti)___________________             AM.EN.U4AIE20042
 
 MADDALA H S M KRISHNA KARTHIK______   AM.EN.U4AIE20046
 
